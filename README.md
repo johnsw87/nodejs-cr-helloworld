@@ -7,6 +7,8 @@
 
 # Cloud Run Hello World Sample
 
+quick test
+
 [![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 
 This sample shows how to deploy a Hello World application to Cloud Run using the Deploy to Cloud Run Button - we then expand on this to set up Continuous deployment on cloud run.
