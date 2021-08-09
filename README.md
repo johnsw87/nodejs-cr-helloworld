@@ -1,10 +1,3 @@
-## Work in progress
-Slides to accompany the basic demo: https://docs.google.com/presentation/d/1PlgcayXFV7-qaGWFoYw7uzbY8QpIjTPOcTwZ57s0NGc/edit#slide=id.g7864721daf_0_0
-
-## Note: ***This only works on a public repo***
-
-Clone the repo, remove the slides link and this section, push to a new repo and make the repo publc. 
-
 ## Pre Reqs
 
 * If you are going to demo step 3 you will need a GKE cluster configured with cloud run for anthos.
